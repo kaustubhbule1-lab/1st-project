@@ -1,0 +1,2 @@
+# 1st-project
+This project is a simple website created using HTML and CSS. It shows basic web design elements like layout, styling, and structure. The project is made for learning and practicing front-end development.
